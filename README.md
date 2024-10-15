@@ -33,8 +33,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/text-to-image-stable-diffusion.git
-   cd text-to-image-stable-diffusion
+   git clone https://github.com/aparnabg/Text-To-Image-Stable-Diffusion.git
+   cd Text-To-Image-Stable-Diffusion
 
 2. **Set up a virtual environment**:
     python -m venv venv
